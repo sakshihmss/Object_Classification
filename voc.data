@@ -1,0 +1,5 @@
+classes= 10
+train  = /home/sakshi/darknet/data/VOCdataset/train.txt
+valid  = /home/sakshi/darknet/data/VOCdataset/test.txt
+names = /home/sakshi/darknet/data/VOCdataset/voc.names
+backup = /home/sakshi/darknet/backup
